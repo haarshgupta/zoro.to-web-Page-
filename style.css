@@ -1,0 +1,16 @@
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align:center;
+    color: aliceblue;
+    letter-spacing: 0.1cm;
+}
+*{
+    background:#202125;
+}
+.nav{
+    padding-top: 1cm;
+    padding-inline-start: 0.5cm;
+}
+p{
+    color: aliceblue;
+}
